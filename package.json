@@ -36,19 +36,19 @@
     "@ag-grid-enterprise/status-bar": "~29.0.0",
     "@ag-grid-enterprise/viewport-row-model": "~29.0.0",
     "bootstrap": "4.5.0",
-    "vue": "3.2.33",
-    "vue-router": "4.0.15"
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.15"
   },
   "devDependencies": {
-    "@vue/babel-preset-app": "5.0.4",
-    "@vue/cli-plugin-babel": "5.0.4",
-    "@vue/cli-plugin-eslint": "5.0.4",
-    "@vue/cli-plugin-unit-jest": "5.0.4",
-    "@vue/cli-service": "5.0.4",
-    "@vue/compiler-sfc": "3.2.33",
-    "babel-eslint": "10.1.0",
-    "eslint": "6.8.0",
-    "eslint-plugin-vue": "7.6.0"
+    "@vue/babel-preset-app": "^5.0.4",
+    "@vue/cli-plugin-babel": "^5.0.4",
+    "@vue/cli-plugin-eslint": "^5.0.4",
+    "@vue/cli-plugin-unit-jest": "^5.0.4",
+    "@vue/cli-service": "^5.0.4",
+    "@vue/compiler-sfc": "^3.2.33",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^7.6.0"
   },
   "eslintConfig": {
     "root": true,
